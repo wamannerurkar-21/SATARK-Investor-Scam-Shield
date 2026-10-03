@@ -1,0 +1,5 @@
+streamlit>=1.64,<2
+Pillow>=12.3,<13
+pydantic>=2.13.5
+pytesseract>=0.3.13
+google-genai>=2.26.0
